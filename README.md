@@ -1,1 +1,1 @@
-# To do List with Typescript and React
+# To do list with Typescript and React
